@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1618505593 source:c:\users\alex\desktop\tepes labo\tp1 code\tp1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1618505593 source:c:\users\alex\desktop\tepes labo\tp1 code\tp1\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1626223577 source:c:\users\alex\desktop\tepes labo\tp1 code\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"utn.h"
+
+1618505593 c:\users\alex\desktop\tepes labo\tp1 code\tp1\funciones.h
+
+1618505593 c:\users\alex\desktop\tepes labo\tp1 code\tp1\utn.h
+
